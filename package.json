@@ -1,0 +1,16 @@
+{
+  "name": "fis3-postpackager-copyright",
+  "version": "0.1.0",
+  "description": "Prepend copyright for release files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "copyright"
+  ],
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC"
+}
