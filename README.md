@@ -1,6 +1,8 @@
 fis3-postpackager-copyright
 ========
 
+[![Dependency Status](https://david-dm.org/wuhy/fis3-postpackager-copyright.svg)](https://david-dm.org/wuhy/fis3-postpackager-copyright) [![devDependency Status](https://david-dm.org/wuhy/fis3-postpackager-copyright/dev-status.svg)](https://david-dm.org/wuhy/fis3-postpackager-copyright#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fis3-postpackager-copyright.svg?style=flat)](https://npmjs.org/package/fis3-postpackager-copyright)
+
 > A plugin for fis3 to prepend copyright to release files
 
 
