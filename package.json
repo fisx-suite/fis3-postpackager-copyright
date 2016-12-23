@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhy/fis3-postpackager-copyright.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wuhy/fis3-postpackager-copyright/issues"
+  },
   "keywords": [
     "fis",
     "fis3",
